@@ -20,7 +20,7 @@ $(document).ready(function(){
                 var ping = new XMLHttpRequest()
                 //create a new ping to request data from the server
                 var status;
-                ping.open("HEAD", "https://php.scweb.ca");
+                ping.open("HEAD", "https://mariahserviceworker.herokuapp.com/");
                 //test to see if a website can be reached. HEAD Will go to the site without actually downloading anthing
                 ping.send();
                 //send the request
@@ -88,7 +88,7 @@ $(document).ready(function(){
                 var ping = new XMLHttpRequest()
                 //create a new ping to request data from the server
                 var status;
-                ping.open("HEAD", "https://php.scweb.ca");
+                ping.open("HEAD", "https://mariahserviceworker.herokuapp.com/");
                 //test to see if a website can be reached. HEAD Will go to the site without actually downloading anthing
                 ping.send();
                 //send the request
@@ -156,7 +156,7 @@ $(document).ready(function(){
                 var ping = new XMLHttpRequest()
                 //create a new ping to request data from the server
                 var status;
-                ping.open("HEAD", "https://php.scweb.ca");
+                ping.open("HEAD", "https://mariahserviceworker.herokuapp.com/");
                 //test to see if a website can be reached. HEAD Will go to the site without actually downloading anthing
                 ping.send();
                 //send the request
@@ -224,7 +224,7 @@ $(document).ready(function(){
                 var ping = new XMLHttpRequest()
                 //create a new ping to request data from the server
                 var status;
-                ping.open("HEAD", "https://php.scweb.ca");
+                ping.open("HEAD", "https://mariahserviceworker.herokuapp.com/");
                 //test to see if a website can be reached. HEAD Will go to the site without actually downloading anthing
                 ping.send();
                 //send the request
