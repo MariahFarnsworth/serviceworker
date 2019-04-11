@@ -1,0 +1,27 @@
+CACHE MANIFEST
+#v1
+CACHE:
+main.css
+script.js
+images/blue.gif
+images/green.gif
+images/purple.gif
+images/red.gif
+images/rainbow.gif
+data1.json
+data2.json
+data3.json
+data4.json
+http://fonts.googleapis.com/css?family=Gloria+Hallelujah|Josefin+Sans|Sacramento
+http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
+http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js
+http://fonts.googleapis.com/css?family=Raleway:400,300,600
+
+NETWORK:
+*
+
+
+
+FALLBACK:
+/ offline.html
